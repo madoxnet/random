@@ -50,6 +50,9 @@
 - Cygwin
   - https://www.cygwin.com/
   - http://cygwin.com/install.html
+- Classic Shell
+  - http://www.classicshell.net/
+  - http://www.classicshell.net/downloads/
   
 #Tinkering - Software
 - MSP430 - Energia
