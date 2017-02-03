@@ -58,6 +58,8 @@
 - MSP430 - Energia
   - http://energia.nu/
   - http://energia.nu/download/
+- Arduino
+  - https://www.arduino.cc/en/main/software
 - Teensyduino
   - https://www.pjrc.com/teensy/td_download.html
 - Python
@@ -76,11 +78,14 @@
   - https://www.virtualbox.org/
   - https://www.virtualbox.org/wiki/Downloads
 
-#Hardware - Hardware
+#Tinkering - Hardware
 - PCB Cad - Eagle
   - http://www.cadsoftusa.com/
   - http://www.cadsoftusa.com/download-eagle/
-
+- PCB Cad
+  - http://circuitmaker.com/
+- Fusion 360
+  - http://www.autodesk.com/products/fusion-360/students-teachers-educators
 
 
 
