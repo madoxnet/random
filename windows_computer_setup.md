@@ -43,8 +43,8 @@ All purpose almost all format playing video player
 http://www.videolan.org/vlc/
 ## Audacity
 Audio editor, muxer etc
-http://audacity.sourceforge.net/
-http://audacity.sourceforge.net/download/
+https://www.audacityteam.org/
+http://www.audacityteam.org/download/
 
 # Graphics
 ## Inkscape
