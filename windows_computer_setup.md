@@ -6,10 +6,6 @@ http://www.libreoffice.org/
 Simple yet powerful text editor
 http://notepad-plus-plus.org/
 http://notepad-plus-plus.org/download/
-## Markdown Edit
-Markdown editor 
-http://markdownedit.com/
-https://github.com/mike-ward/Markdown-Edit/releases/latest
 ## Speed Crunch
 Very powerful calculator
 http://www.speedcrunch.org/
@@ -33,9 +29,6 @@ https://windows.github.com/
 ## Google Drive
 https://www.google.com/intl/en/drive/
 https://www.google.com/intl/en/drive/download/
-## Dropbox 
-https://www.dropbox.com/
-https://www.dropbox.com/downloading?src=index
 
 # Video / Audio
 ## VLC
@@ -64,24 +57,16 @@ http://www.7-zip.org/download.html
 ## Cygwin
 https://www.cygwin.com/
 http://cygwin.com/install.html
-## Classic Shell
-http://www.classicshell.net/
-http://www.classicshell.net/downloads/
+## Open Shell (Previously Classic Shell)
+https://open-shell.github.io/Open-Shell-Menu/
 ## PDFsam basic
 PDF tool for splitting, combining and extracting pages etc
 http://www.pdfsam.org/pdfsam-basic/
 http://www.pdfsam.org/download-pdfsam-basic/
-## Private Internet Access
-Paid VPN service and client for the privacy minded
-https://www.privateinternetaccess.com/
-https://www.privateinternetaccess.com/pages/downloads 
 
 # Tinkering - Software
-- MSP430 - Energia
-  - http://energia.nu/
-  - http://energia.nu/download/
 - Arduino
-  - https://www.arduino.cc/en/main/software
+  - https://www.arduino.cc/
 - Teensyduino
   - https://www.pjrc.com/teensy/td_download.html
 - Python
@@ -101,8 +86,5 @@ https://www.privateinternetaccess.com/pages/downloads
   - https://www.virtualbox.org/wiki/Downloads
 
 # Tinkering - Hardware
-- PCB Cad - Eagle
-  - http://www.cadsoftusa.com/
-  - http://www.cadsoftusa.com/download-eagle/
 - Fusion 360
   - http://www.autodesk.com/products/fusion-360/students-teachers-educators
